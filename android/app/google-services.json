@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "183174629021",
+    "firebase_url": "https://fyp-pothole-detection.firebaseio.com",
+    "project_id": "fyp-pothole-detection",
+    "storage_bucket": "fyp-pothole-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183174629021:android:d8eaf451bfea568af57674",
+        "android_client_info": {
+          "package_name": "com.pothole_hrm.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183174629021-3ck086fesso2al7f4v3a7vlmajhog1ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAskQjjUBx6mBhjNLh6rJKVFo1DzSvEzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183174629021-3ck086fesso2al7f4v3a7vlmajhog1ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
